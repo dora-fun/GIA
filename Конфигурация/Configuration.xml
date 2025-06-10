@@ -155,10 +155,12 @@
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Материалы</Catalog>
 			<Catalog>Поставщики</Catalog>
+			<Catalog>Менеджер</Catalog>
 			<Document>Производство_продукции</Document>
 			<Document>Заявка</Document>
 			<Document>Доступ</Document>
 			<Document>Склад</Document>
+			<Document>Регистрация_заявок</Document>
 			<InformationRegister>Продукция_цеха</InformationRegister>
 		</ChildObjects>
 	</Configuration>

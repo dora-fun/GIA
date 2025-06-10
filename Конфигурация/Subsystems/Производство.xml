@@ -20,6 +20,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Цеха</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.Продукция_цеха</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Style.Стиль1</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.Регистрация_заявок</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
