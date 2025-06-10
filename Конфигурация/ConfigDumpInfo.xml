@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.7">
 	<ConfigVersions>
-		<Metadata name="Catalog.Материалы" id="0f673399-1e0d-491a-8842-a14db31a996e" configVersion="b0e0032cbe17b4458b1f418f0141a1fd00000000">
+		<Metadata name="Catalog.Материалы" id="0f673399-1e0d-491a-8842-a14db31a996e" configVersion="12c4f6bda6bb7a47a138aa5d576666ae00000000">
 			<Metadata name="Catalog.Материалы.Attribute.Описание" id="1d3b140b-08f7-44db-8c28-7c0313947c65"/>
 			<Metadata name="Catalog.Материалы.Attribute.Тип" id="27974899-e103-44ba-81d9-abb9d527747f"/>
 			<Metadata name="Catalog.Материалы.Attribute.Поставщики" id="32705539-c7ae-486c-bd18-23c0935b964a"/>
@@ -13,7 +13,7 @@
 			<Metadata name="Catalog.Материалы.Attribute.Стоимость" id="d88da424-962d-4651-a7df-27efd9a958d8"/>
 			<Metadata name="Catalog.Материалы.Attribute.Мин_количество_на_складе" id="e1d2c66a-f933-4902-bfe4-682f5279ab3f"/>
 		</Metadata>
-		<Metadata name="Catalog.Менеджер" id="eb6198c8-feac-473e-9f9c-5299291890e0" configVersion="0888a5ad0f9d1940a5fcadb11fb9122d00000000">
+		<Metadata name="Catalog.Менеджер" id="eb6198c8-feac-473e-9f9c-5299291890e0" configVersion="7915a86115888b40ac66f0ee7f23858300000000">
 			<Metadata name="Catalog.Менеджер.Attribute.ФИО_менеджера" id="2431bae7-e137-4a38-b1f8-cb2f099b23b4"/>
 			<Metadata name="Catalog.Менеджер.Attribute.Состояние_здорровья" id="49ac328d-32a6-4f49-b231-5bda3ce7add6"/>
 			<Metadata name="Catalog.Менеджер.Attribute.Дата_рождения" id="632c58b7-54e5-4c9e-961e-487762f4d118"/>
@@ -70,7 +70,7 @@
 		<Metadata name="CommonForm.РаботаСПродукцией.Form" id="04caa6ef-84b0-473d-95e7-1a039c0aa7e4.0" configVersion="34f1e52af8d4e04ca28daff5579d03d500000000"/>
 		<Metadata name="CommonPicture.Логотип" id="6b8e599b-3adc-40e5-8197-17bc7b872c12" configVersion="a71e38bf741fca4f95958285630ad8d400000000"/>
 		<Metadata name="CommonPicture.Логотип.Picture" id="6b8e599b-3adc-40e5-8197-17bc7b872c12.0" configVersion="c891689c4ede244bb9772799af1c400d00000000"/>
-		<Metadata name="Configuration.Комфорт" id="96d8e054-c1ab-479c-abd3-4b6870906d9c" configVersion="e9cbe87254f023499ae9602398430b9000000000"/>
+		<Metadata name="Configuration.Комфорт" id="96d8e054-c1ab-479c-abd3-4b6870906d9c" configVersion="da77b607d4d55f459c9af8f23b663bb000000000"/>
 		<Metadata name="Configuration.Комфорт.Logo" id="eb22332c-b528-4f9d-85d3-948dccdff697.1" configVersion="77b0c35cca4900469fb8c03e12e6a9ee00000000"/>
 		<Metadata name="Configuration.Комфорт.MainSectionPicture" id="eb22332c-b528-4f9d-85d3-948dccdff697.c" configVersion="e2e00ec42a47524c8140c5943ee4a9d200000000"/>
 		<Metadata name="Configuration.Комфорт.Splash" id="eb22332c-b528-4f9d-85d3-948dccdff697.2" configVersion="43757c316d5b3d4d86bad062d2eb353f00000000"/>
@@ -85,14 +85,18 @@
 			<Metadata name="Document.Заявка.Attribute.Продукция" id="3b5de79d-8c4b-4cd3-bd71-3db85f26db31"/>
 			<Metadata name="Document.Заявка.Attribute.Срок_изготовления" id="a96e7b5e-67dc-4a2f-86f2-ae637a8f3a1e"/>
 		</Metadata>
-		<Metadata name="Document.Производство_продукции" id="95ead316-6afa-454d-b9d3-b6fcfc716209" configVersion="e83f61e57d24de418dc929616597b59500000000">
+		<Metadata name="Document.Производство_продукции" id="95ead316-6afa-454d-b9d3-b6fcfc716209" configVersion="1835ce741798d240b91e92d4319e22af00000000">
 			<Metadata name="Document.Производство_продукции.Attribute.Продукция" id="0ed34df0-ddf4-40a1-b1c6-0b83f0b0a5d7"/>
 			<Metadata name="Document.Производство_продукции.Attribute.Цех" id="5e0c8995-1469-4e2e-b6c9-784e92f1fbbe"/>
 			<Metadata name="Document.Производство_продукции.Attribute.ВремяИзготовления" id="9c3a4ac1-6829-4bf7-8d19-f09468fff723"/>
 		</Metadata>
-		<Metadata name="Document.Производство_продукции.Form.ФормаСписка" id="8eab6fa0-9c98-451e-89e1-0f28f8714707" configVersion="57e05d55039ab745b0e3a5b2d1f6c98800000000"/>
-		<Metadata name="Document.Производство_продукции.Form.ФормаСписка.Form" id="8eab6fa0-9c98-451e-89e1-0f28f8714707.0" configVersion="abdcdbc78b245b4fa975b863b30dd5b200000000"/>
-		<Metadata name="Document.Регистрация_заявок" id="016c4cfb-8d1f-4ba0-8f62-aef4711e53f8" configVersion="453bb7531e409a43b705fc3ae85a59dc00000000">
+		<Metadata name="Document.Производство_продукции.Form.ФормаВыбора" id="3d6ccf91-f042-49ef-b19f-06c5a80a2b54" configVersion="32a0abbb65839747864e6cc00edb8f5400000000"/>
+		<Metadata name="Document.Производство_продукции.Form.ФормаВыбора.Form" id="3d6ccf91-f042-49ef-b19f-06c5a80a2b54.0" configVersion="2e4e3d4385942e4193a710f02a2dbcc300000000"/>
+		<Metadata name="Document.Производство_продукции.Form.ФормаДокумента" id="3e01a07d-bcd1-4bb7-ad37-210041cbaadd" configVersion="a0d3001ff2e14547b8f5fe993e80e5e700000000"/>
+		<Metadata name="Document.Производство_продукции.Form.ФормаДокумента.Form" id="3e01a07d-bcd1-4bb7-ad37-210041cbaadd.0" configVersion="48d5027e5bbb7f4e899845035316dc0e00000000"/>
+		<Metadata name="Document.Производство_продукции.Form.ФормаСписка" id="8eab6fa0-9c98-451e-89e1-0f28f8714707" configVersion="4644a88c1d70cc4780b9095d902c46a100000000"/>
+		<Metadata name="Document.Производство_продукции.Form.ФормаСписка.Form" id="8eab6fa0-9c98-451e-89e1-0f28f8714707.0" configVersion="0003a8d65c41714f9a1f03c6a8adaa9900000000"/>
+		<Metadata name="Document.Регистрация_заявок" id="016c4cfb-8d1f-4ba0-8f62-aef4711e53f8" configVersion="e2e234c8baf7af4e8d2626806d061b8000000000">
 			<Metadata name="Document.Регистрация_заявок.Attribute.Дата_регистрации" id="1ae0d4a6-5b33-4447-bfd9-349a03df43b7"/>
 			<Metadata name="Document.Регистрация_заявок.Attribute.Менеджер" id="f027121f-573b-45a0-a212-4324ea915043"/>
 			<Metadata name="Document.Регистрация_заявок.Attribute.Заявка" id="f51936e9-ea14-4b0b-9ac6-108b06c7040f"/>
@@ -118,6 +122,6 @@
 		<Metadata name="Subsystem.Продукция" id="e493a882-9298-46d8-9cd4-de8082fb0ec7" configVersion="2140e14c1b9b394b9b2b890ad186869400000000"/>
 		<Metadata name="Subsystem.Производство" id="818d6b61-d561-4609-b2c7-caf66032462f" configVersion="ea5e2bcfd8f1384598a5a9d0f757d8d900000000"/>
 		<Metadata name="Subsystem.СкладИМатериалы" id="7846cdf3-50e0-4715-b7af-98ecff733aee" configVersion="8bda65aa5680434d9e9e28fccaf2a56300000000"/>
-		<Metadata name="Subsystem.Сотрудники" id="3f53d585-9236-4ebe-8b4a-c96270eaf08f" configVersion="ee0b5565f887ef4fb93162735fb7df3700000000"/>
+		<Metadata name="Subsystem.Сотрудники" id="3f53d585-9236-4ebe-8b4a-c96270eaf08f" configVersion="b97520e83ae1f04aa82514991ca603dd00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
