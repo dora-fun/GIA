@@ -116,8 +116,8 @@
 		<Metadata name="Language.Русский" id="48633a61-f343-499a-814b-dfc719ecaf3a" configVersion="f70aee15d2fb5c4ab1ed7ed983d723e600000000"/>
 		<Metadata name="Role.Менеджер" id="f1fe38f2-ccd8-4aea-b4a4-0884051cdf3d" configVersion="f623c516793fb84d9b6f3aa95d6395e800000000"/>
 		<Metadata name="Role.Менеджер.Rights" id="f1fe38f2-ccd8-4aea-b4a4-0884051cdf3d.0" configVersion="81698c1702a8ba4b85ca1da9dc42ac1a00000000"/>
-		<Metadata name="Style.Стиль1" id="30e50f29-a1c3-4c19-8b0e-ec511ffe4c84" configVersion="62e7a3cdb181304d9bbfad7c6ba4c42400000000"/>
-		<Metadata name="Style.Стиль1.Style" id="30e50f29-a1c3-4c19-8b0e-ec511ffe4c84.0" configVersion="8f5bd375c01fa64e8a04e2c01219202300000000"/>
+		<Metadata name="Style.Стиль1" id="30e50f29-a1c3-4c19-8b0e-ec511ffe4c84" configVersion="f7b16be1af79864182d5a92053f2f73500000000"/>
+		<Metadata name="Style.Стиль1.Style" id="30e50f29-a1c3-4c19-8b0e-ec511ffe4c84.0" configVersion="f79dd7ea53a1294f807f9584353b0ec300000000"/>
 		<Metadata name="Subsystem.Партнёры" id="6a3969a6-3f8f-4539-bd46-10c3f4f7fa08" configVersion="2e9697de08983d40a684287317e23bd700000000"/>
 		<Metadata name="Subsystem.Продукция" id="e493a882-9298-46d8-9cd4-de8082fb0ec7" configVersion="2140e14c1b9b394b9b2b890ad186869400000000"/>
 		<Metadata name="Subsystem.Производство" id="818d6b61-d561-4609-b2c7-caf66032462f" configVersion="ea5e2bcfd8f1384598a5a9d0f757d8d900000000"/>

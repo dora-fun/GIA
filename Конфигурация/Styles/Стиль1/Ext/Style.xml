@@ -6,4 +6,10 @@
 	<Item name="AccentColor">
 		<Color>#355CBD</Color>
 	</Item>
+	<Item name="NavigationColor">
+		<Color>#355CBD</Color>
+	</Item>
+	<Item name="AuxiliaryNavigationColor">
+		<Color>#D2DFFF</Color>
+	</Item>
 </Style>
